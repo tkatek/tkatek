@@ -1,18 +1,18 @@
-# Hi there, I'm Soufiane Elkhassibi 👋
+                             I'm Soufiane Elkhassibi 
 
 I am a dedicated **Full Stack Developer** with a passion for building scalable web and mobile applications. I thrive on solving complex problems, writing clean code, and creating real-world solutions that provide genuine value to users.
 
 ---
 
-### 🚀 About Me:
-- 🔭 I’m currently working on a **Multi-tenant Gym Management SaaS** platform.
-- 🌱 I’m currently expanding my expertise in **Flutter & Dart** for cross-platform mobile excellence.
-- ⚡ I specialize in the **PHP/Laravel ecosystem** but love exploring modern stacks like **React** and **Django**.
-- 🥅 Goal: To contribute to innovative projects while growing as a high-impact developer.
+###  About Me:
+-  I’m currently working on a **Multi-tenant Gym Management SaaS** platform.
+-  I’m currently expanding my expertise in **Flutter & Dart** for cross-platform mobile excellence.
+-  I specialize in the **PHP/Laravel ecosystem** but love exploring modern stacks like **React** and **Django**.
+-  Goal: To contribute to innovative projects while growing as a high-impact developer.
 
 ---
 
-### 🌐 Socials:
+###  Socials:
 
 <p align="left">
   <a href="https://linkedin.com/in/soufiane-el-khassibi" target="_blank">
@@ -25,7 +25,7 @@ I am a dedicated **Full Stack Developer** with a passion for building scalable w
 
 ---
 
-### 💻 Tech Stack:
+###  Tech Stack:
 
 <p align="left">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -55,7 +55,7 @@ I am a dedicated **Full Stack Developer** with a passion for building scalable w
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 
 <p align="left">
   <a href="https://github.com/Tkatek/Tkatek/graphs/contributors">
